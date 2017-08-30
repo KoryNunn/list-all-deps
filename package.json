@@ -1,0 +1,30 @@
+{
+  "name": "list-all-deps",
+  "version": "1.0.0",
+  "description": "Lists all the dependancies in a module",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "graceful-fs": "^4.1.11",
+    "resolve": "^1.4.0",
+    "righto": "^3.1.0"
+  },
+  "devDependencies": {
+    "tape": "^4.8.0"
+  },
+  "directories": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/KoryNunn/list-all-deps.git"
+  },
+  "bugs": {
+    "url": "https://github.com/KoryNunn/list-all-deps/issues"
+  },
+  "homepage": "https://github.com/KoryNunn/list-all-deps#readme"
+}
